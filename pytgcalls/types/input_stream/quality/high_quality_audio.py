@@ -11,5 +11,5 @@ class HighQualityAudio(AudioParameters):
 
     def __init__(self):
         super().__init__(
-            48000,
+            256000,
         )
